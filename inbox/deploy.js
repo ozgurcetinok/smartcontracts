@@ -3,8 +3,8 @@ const Web3 = require('web3');
 const { interface, bytecode} = require('./compile');
 
 const provider = new HDWalletProvider(
-'vanish tide famous melody wish next ball creek custom rubber parrot gaze',
-'https://rinkeby.infura.io/v3/00060a921acf488f87f17da528956d77'
+'YOUR WORD PASSPHRASE',
+'YOUR ADDRESS'
 
 );
 
